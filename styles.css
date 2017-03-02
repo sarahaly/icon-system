@@ -1,0 +1,46 @@
+@font-face {
+    font-family: Norse;
+    src: url(Norse.otf);
+}
+
+body{ 
+	background-color: #00b7ff;
+	margin: auto;
+}
+
+svg.elements{ 
+	fill: currentColor;
+	width: 4em;
+	height: 4em;
+	color: white;
+}
+
+.row1{ 
+	display: block;
+	margin: auto;
+	margin-left: 31%;
+}
+
+.row2{ 
+	display: block;
+	margin: auto;
+	margin-left: 36%;
+}
+
+.element{ 
+	display: inline-block;
+	padding: 3%;
+}
+
+#title{ 
+	margin-top: 5%;
+	font-size: 5em;
+	margin-bottom: 0px;
+}
+
+h1, h2, h3{ 
+	text-align: center;
+	color: white;
+	font-family: "Norse";
+	
+}
